@@ -1,7 +1,7 @@
 Authors
 -------
 
-* Eric (New contributor)
-* Anthony 
+* Guillermo Molina
+* Alberto Martinez
 
 
